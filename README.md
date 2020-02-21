@@ -1,2 +1,2 @@
 # RoboFriends
-User Filtration by Search Name
+Filter Users by Search Name
